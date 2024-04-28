@@ -1,0 +1,11 @@
+This script prompts the user to input the URL of the YouTube playlist they want to convert to MP3. Then, it uses youtube_dl to download each video in the playlist and extract the audio in MP3 format. The resulting MP3 files will be saved in the current directory. Note that the script may take some time to download and convert all the videos in the playlist, depending on the number and duration of the videos.
+
+Make sure you have youtube_dl installed. You can install it via pip:
+
+pip install youtube_dl
+
+US Song URL 2024:
+https://www.youtube.com/watch?v=mGyN2NMuS4A&list=PL7W9LuUf6bFpTgoCXtyTqaLaBECHx8LoM
+
+Path to save the file:
+D:\Song_Hiphop\US Rap and RnB
